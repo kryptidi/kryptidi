@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kryptidi!
-- 👀 I’m interested in music production, TTRPGS, game development and arts in general.
-- 🌱 I’m currently learning Java. (not JavaScript, Java)
-- 😄 Pronouns: it/its, they/them
-- ⚡ Fun fact: There are at least five tardigrades on your face right now.
+- 👋 I’m @kryptidi or Kryppe for short.
+- 👀 Interested in music, TTRPGs, game development and arts in general.
+- 🌱 Currently learning Java, C#, Python and HTML
+- ⚡ Fact: There are at least five tardigrades on your face right now.
 
 <!---
 kryptidi/kryptidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
